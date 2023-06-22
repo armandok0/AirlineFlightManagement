@@ -3,12 +3,15 @@
 
 
 ## Τρόπος Εκτέλεσης 
-Δημιουργούμε τα container ως εξής: 
+Το πρόγραμμα εκτελείται στην πόρτα 5000 με flask και η Mongodb στην πόρτα 27017. 
+
+Έχουμε ένα database DigitalAirlines με collections users, flights, reservations.
+Δημιουργούμε το container ως εξής: 
 ```bash
 docker-compose up -d
 ```
-
 Με την χρήση του postman μπορούμε να στέλνουμε μεθόδους.
+
 #
 ## /register_user
 Στην υπηρεσία υπάρχουν δύο κατηγορίες χρηστών:
