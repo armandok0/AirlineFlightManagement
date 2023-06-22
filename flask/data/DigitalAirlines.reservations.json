@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "647d1034a76efba0c0baeee5"
+  },
+  "user_id": "647d04681503b448d055b736",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Giannis",
+  "surname": "Georgakis",
+  "passport_number": "AF222",
+  "date_of_birth": "11-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "economy"
+},
+{
+  "_id": {
+    "$oid": "647d1054a76efba0c0baeee6"
+  },
+  "user_id": "647d04681503b448d055b736",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Panos",
+  "surname": "Georgakis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "business"
+},
+{
+  "_id": {
+    "$oid": "647d1064a76efba0c0baeee7"
+  },
+  "user_id": "647d04681503b448d055b736",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Panos",
+  "surname": "Georgakis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "business"
+},
+{
+  "_id": {
+    "$oid": "647d107da76efba0c0baeee8"
+  },
+  "user_id": "647d04681503b448d055b736",
+  "flight_id": "647d07961503b448d055b73d",
+  "name": "Panos",
+  "surname": "Georgakis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "business"
+},
+{
+  "_id": {
+    "$oid": "647d109fa76efba0c0baeee9"
+  },
+  "user_id": "647d04681503b448d055b736",
+  "flight_id": "647d07af1503b448d055b73e",
+  "name": "Georgakis",
+  "surname": "Theoharis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "economy"
+},
+{
+  "_id": {
+    "$oid": "647d1111a76efba0c0baeeea"
+  },
+  "user_id": "647d04841503b448d055b737",
+  "flight_id": "647d07af1503b448d055b73e",
+  "name": "Georgakis",
+  "surname": "Theoharis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "economy"
+},
+{
+  "_id": {
+    "$oid": "647d1129a76efba0c0baeeec"
+  },
+  "user_id": "647d04841503b448d055b737",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Georgakis",
+  "surname": "Theoharis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "economy"
+},
+{
+  "_id": {
+    "$oid": "647d1187a76efba0c0baeeee"
+  },
+  "user_id": "647d04841503b448d055b737",
+  "flight_id": "647d07af1503b448d055b73e",
+  "name": "Georgios",
+  "surname": "Giannakakis",
+  "passport_number": "AH44",
+  "date_of_birth": "12-06-1989",
+  "email": "giannis@gmail.com",
+  "ticket_class": "economy"
+},
+{
+  "_id": {
+    "$oid": "647fde1f46864e341881b409"
+  },
+  "user_id": "647fdab22d2e779271462ab5",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Manos",
+  "surname": "Giannidis",
+  "passport_number": "AR4322",
+  "date_of_birth": "12-06-1999",
+  "email": "giorgos@gmail.com",
+  "ticket_class": "business"
+},
+{
+  "_id": {
+    "$oid": "647fe35a6faf0040483ee372"
+  },
+  "user_id": "647fdab22d2e779271462ab5",
+  "flight_id": "647d07741503b448d055b73c",
+  "name": "Thanos",
+  "surname": "Kassa",
+  "passport_number": "OA44",
+  "date_of_birth": "12-06-1939",
+  "email": "thanos@gmail.com",
+  "ticket_class": "economy"
+}]

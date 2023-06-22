@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "647d042c68f48505487cefc9"
+  },
+  "username": "user1",
+  "surname": "sur1",
+  "email": "user1@gmail.com",
+  "password": "123",
+  "date_of_birth": "123",
+  "country": "Greece",
+  "passport_number": "AB123",
+  "category": "admin"
+},
+{
+  "_id": {
+    "$oid": "647d04681503b448d055b736"
+  },
+  "username": "user2",
+  "surname": "sur2",
+  "email": "user2@gmail.com",
+  "password": "123",
+  "date_of_birth": "12-06-2002",
+  "country": "Greece",
+  "passport_number": "AC123",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647d04841503b448d055b737"
+  },
+  "username": "user3",
+  "surname": "sur3",
+  "email": "user3@gmail.com",
+  "password": "123",
+  "date_of_birth": "11-06-2002",
+  "country": "Italy",
+  "passport_number": "AD1232",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647d049a1503b448d055b738"
+  },
+  "username": "user4",
+  "surname": "sur4",
+  "email": "user4@gmail.com",
+  "password": "123",
+  "date_of_birth": "17-02-2002",
+  "country": "Spain",
+  "passport_number": "AG881",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647d04b31503b448d055b739"
+  },
+  "username": "user5",
+  "surname": "sur5",
+  "email": "user5@gmail.com",
+  "password": "123",
+  "date_of_birth": "11-02-1999",
+  "country": "Germany",
+  "passport_number": "AHH234",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647d04d21503b448d055b73a"
+  },
+  "username": "user6",
+  "surname": "sur6",
+  "email": "user6@gmail.com",
+  "password": "123",
+  "date_of_birth": "12-12-1998",
+  "country": "Greece",
+  "passport_number": "AO99",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647fdab22d2e779271462ab5"
+  },
+  "username": "user7",
+  "surname": "sur7",
+  "email": "user7@gmail.com",
+  "password": "123",
+  "date_of_birth": "12-12-1998",
+  "country": "Greece",
+  "passport_number": "AK99",
+  "category": "Simple User"
+},
+{
+  "_id": {
+    "$oid": "647fdb60933c538296b8987e"
+  },
+  "username": "user8",
+  "surname": "sur8",
+  "email": "user8@gmail.com",
+  "password": "123",
+  "date_of_birth": "12-12-1998",
+  "country": "Greece",
+  "passport_number": "AK99",
+  "category": "Simple User"
+}]

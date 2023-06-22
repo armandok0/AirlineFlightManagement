@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "647d07741503b448d055b73c"
+  },
+  "origin_airport": "Athens",
+  "destination_airport": "HER",
+  "date_of_flight": "13-05-2023",
+  "business_ticket": 96,
+  "business_cost": 150,
+  "economy_ticket": 196,
+  "economy_cost": 50
+},
+{
+  "_id": {
+    "$oid": "647d07961503b448d055b73d"
+  },
+  "origin_airport": "HER",
+  "destination_airport": "Athens",
+  "date_of_flight": "14-05-2023",
+  "business_ticket": 149,
+  "business_cost": 150,
+  "economy_ticket": 300,
+  "economy_cost": 60
+},
+{
+  "_id": {
+    "$oid": "647d07af1503b448d055b73e"
+  },
+  "origin_airport": "HER",
+  "destination_airport": "Skiathos",
+  "date_of_flight": "16-05-2023",
+  "business_ticket": 15,
+  "business_cost": 100,
+  "economy_ticket": 97,
+  "economy_cost": 70
+},
+{
+  "_id": {
+    "$oid": "647d0d6a66664b68d4c0b872"
+  },
+  "origin_airport": "Ioan",
+  "destination_airport": "Athens",
+  "date_of_flight": "20-05-2023",
+  "business_ticket": 30,
+  "business_cost": 200,
+  "economy_ticket": 100,
+  "economy_cost": 100
+},
+{
+  "_id": {
+    "$oid": "647e512ff7bbd49955a0a4bd"
+  },
+  "origin_airport": "Mykonos",
+  "destination_airport": "HER",
+  "date_of_flight": "23-06-2023",
+  "business_ticket": 100,
+  "business_cost": 300,
+  "economy_ticket": 200,
+  "economy_cost": 100
+}]
